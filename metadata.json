@@ -1,0 +1,7 @@
+{
+  "name": "GPU Indicator",
+  "description": "Displays current GPU mode in the top bar",
+  "uuid": "gpu-indicator@jackemw",
+  "shell-version": ["51"],
+  "url": "https://github.com/jackemw/gpu-indicator"
+}
